@@ -5,3 +5,6 @@ This is my "hackuino" ATMega32 prototyping board with I/O demo. The board expose
 The I/O demo uses two switches for a LED to configure whether it is enabled as well as how freuqent is shall toggle between on and off states, 1Hz or 2Hz. 
 
 The details of hardware and software are included in this repository.
+
+For more info and a demo video visit the project website:
+https://sites.google.com/site/aergawyprojects/microcontroller-projects/atmega32-prototyping-board
